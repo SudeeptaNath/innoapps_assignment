@@ -1,0 +1,10 @@
+{
+"m1":{"name":"Mike","id":"THD-05346","role":"Product Manager", "email":"mike@gmail.com", "status": "active"},
+"m2":{"name":"Jenny","id":"THD-05367","role":"Inspection Team", "email":"jen.k@mail.com", "status": "Incomplete"},
+"m3":{"name":"Emma","id":"THD-053675","role":"Team Lead", "email":"emmabay234@mail.com", "status": "Suspended"},
+"m4":{"name":"Raymond","id":"THD-966787","role":"Quality Inspector", "email":"ray@mail.com", "status": "Terminated"},
+"m5":{"name":"Tomson","id":"THD-989568","role":"Production Team Member", "email":"tom.n@mail.com", "status": "active"},
+"m6":{"name":"Richmond","id":"THD-003436","role":"Human Resource", "email":"richy@mail.com", "status": "Incomplete"},
+"m7":{"name":"Bella","id":"THD-007885","role":"Batch Assignation", "email":"Bellcholning@mail.com", "status": "Suspended"},
+"m8":{"name":"Kimson","id":"THD-967342","role":"Product Manager", "email":"kim@mail.com", "status": "Terminated"}
+}
